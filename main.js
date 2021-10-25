@@ -1,7 +1,7 @@
 
             const LinksSocialMedia = {
                 github: "Turith",
-                youtube: "404",
+                youtube: "I don't have this social media",
                 facebook: "noneExistent",
                 instagram: "404",
                 twitter: "404"
